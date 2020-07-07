@@ -1,0 +1,6 @@
+<!-- 小程序收藏组件，更多高级用法请参考文档：https://docs.alipay.com/mini/component/component-favorite -->
+
+<favorite>收藏小程序，下次使用更方便</favorite>
+<view class="page">
+  <web-view id="web-view" src="https://tlp.aguoda.com/" onMessage="onMessage"></web-view>
+</view>

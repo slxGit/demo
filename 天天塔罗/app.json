@@ -1,0 +1,9 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/pay/pay"
+  ],
+  "window": {
+    "defaultTitle": "天天塔罗牌占卜"
+  }
+}
